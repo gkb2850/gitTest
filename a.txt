@@ -1,1 +1,3 @@
-123456
+git °æ±¾»ØÍË
+git reset --hard HEAD^
+git reset --hard CommitId
